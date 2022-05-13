@@ -6,7 +6,10 @@ public interface Volume {
 
     double volume();
 
+    //Practice
+
    /*
+   //
     default void drink(){
          System.out.println("Drinks water");/
      }
